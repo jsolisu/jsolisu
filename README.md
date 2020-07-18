@@ -1,6 +1,27 @@
-### Hi there 👋
+### Software Engineer
 
 [![Twitter: jsolisu](https://img.shields.io/twitter/follow/jsolisu?style=social)](https://twitter.com/jsolisu)
+
+```javascript
+const jsolisu = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "Java", "Delphi", "C++"],
+    technologies: {
+        frontEnd: {
+            js: ["AngularJS"],
+            ts: ["Angular"],
+            css: ["bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express"],
+            java: ["Payara"]
+        },
+        devOps: ["Docker🐳", "Apache"],
+        databases: ["MySql", "Oracle", "SQL Server", "DB2", "Firebird"]
+    },
+    architecture: ["SPA"],
+}
+```
 
 <!--
 **jsolisu/jsolisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
