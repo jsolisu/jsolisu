@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Twitter: jsolisu](https://img.shields.io/twitter/follow/jsolisu?style=social)](https://twitter.com/jsolisu)
+
 <!--
 **jsolisu/jsolisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
