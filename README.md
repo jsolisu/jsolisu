@@ -20,6 +20,7 @@ const jsolisu = {
         databases: ["MySql", "Oracle", "SQL Server", "DB2", "Firebird"]
     },
     architecture: ["SPA"],
+    cloud: ["Azure"]
 }
 ```
 
