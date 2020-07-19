@@ -14,13 +14,14 @@ const jsolisu = {
         },
         backEnd: {
             js: ["node", "express"],
-            java: ["Payara"]
+            java: ["Glassfish", "Payara"]
         },
         devOps: ["Docker🐳", "Apache"],
         databases: ["MySql", "Oracle", "SQL Server", "DB2", "Firebird"]
     },
     architecture: ["SPA"],
     cloud: ["Azure"]
+    ide: ["Eclipse", "Netbeans", "Visual Studio Code", "Visual Studio"]
 }
 ```
 
