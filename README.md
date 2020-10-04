@@ -5,7 +5,7 @@
 ```javascript
 const jsolisu = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "Java", "Delphi", "C++"],
+    code: ["Javascript", "Typescript", "Java", "Delphi", "C++", "C#", "Python", "Bash"],
     technologies: {
         frontEnd: {
             js: ["AngularJS"],
