@@ -23,7 +23,8 @@ const jsolisu = {
     architecture: ["SPA"],
     cloud: ["Azure"],
     ide: ["Eclipse", "Netbeans", "Visual Studio Code", "Visual Studio"],
-    scm: ["svn", "git"]
+    scm: ["svn", "git"],
+    shell: ["cmd", "powershell", "bash"]
 }
 ```
 
