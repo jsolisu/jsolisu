@@ -17,7 +17,8 @@ const jsolisu = {
             java: ["Glassfish", "Payara"]
         },
         devOps: ["Docker🐳", "Apache"],
-        databases: ["MySql", "Oracle", "SQL Server", "DB2", "Firebird"]
+        databases: ["MySql", "Oracle", "SQL Server", "DB2", "Firebird"],
+        OSes: ["Linux", "Windows"]
     },
     architecture: ["SPA"],
     cloud: ["Azure"],
