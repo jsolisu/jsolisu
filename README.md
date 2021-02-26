@@ -22,7 +22,8 @@ const jsolisu = {
     },
     architecture: ["SPA"],
     cloud: ["Azure"],
-    ide: ["Eclipse", "Netbeans", "Visual Studio Code", "Visual Studio"]
+    ide: ["Eclipse", "Netbeans", "Visual Studio Code", "Visual Studio"],
+    scm: ["svn", "git"]
 }
 ```
 
