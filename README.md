@@ -13,8 +13,8 @@ const jsolisu = {
             css: ["bootstrap"]
         },
         backEnd: {
-            js: ["node", "express"],
             java: ["Glassfish", "Payara"],
+            js: ["node", "express"],
             ts: ["nestjs"]
         },
         devOps: ["Docker🐳", "Apache"],
