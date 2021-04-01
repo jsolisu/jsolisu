@@ -14,7 +14,8 @@ const jsolisu = {
         },
         backEnd: {
             js: ["node", "express"],
-            java: ["Glassfish", "Payara"]
+            java: ["Glassfish", "Payara"],
+            ts: ["nestjs"]
         },
         devOps: ["Docker🐳", "Apache"],
         databases: ["MySql", "Oracle", "SQL Server", "DB2", "Firebird"],
